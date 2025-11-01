@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="Hotels.xsd">
+
+  <Hotel Rating="6.9">
+    <Name>Westin</Name>
+    <Phone>696-696-6969</Phone>
+    <Phone>696-696-6969</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>11</Number>
+      <Street>E 7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="6.9">
+    <Name>Girlfriend 1</Name>
+    <Phone>696-696-6969</Phone>
+    <Address>
+      <Number>69</Number>
+      <Street>Main St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="6.9">
+    <Name>Girlfriend 2</Name>
+    <Address NearestAirport="Sky Harbor">
+      <Number>69</Number>
+      <Street>College Ave</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85201</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="6.9">
+    <Name>Girlfriend 3</Name>
+    <Address NearestAirport="Sky Harbor">
+      <Number>67</Number>
+      <Street>Apache Blvd</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85201</Zip>
+    </Address>
+    <Phone>696-696-6969</Phone>
+  </Hotel>
+
+  <Hotel Rating="6.9">
+    <Name>Girlfriend 4</Name>
+    <Name>Duplicate Name</Name>
+    <Phone>696-696-6969</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>67</Number>
+      <Street>Mill Ave</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85201</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="6.9">
+    <Name>Girlfriend 5</Name>
+    <Phone>696-696-6969</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>21</Number>
+      <Street>Mill Ave</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>eight-five-two-zero-one</Zip>
+    </Address>
+  </Hotel>
+
+</Hotels>
