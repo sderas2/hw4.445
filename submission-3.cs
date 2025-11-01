@@ -132,7 +132,7 @@ namespace ConsoleApp1
                             new JProperty("Hotel", new JArray())
                         ))
                     );
-                    string emptyJson = emptyObj.ToString(Formatting.None);
+                    string emptyJson = emptyObj.ToString(Newtonsoft.Json.Formatting.None);
                     _ = JsonConvert.DeserializeXmlNode(emptyJson);
                     return emptyJson;
                 }
@@ -218,7 +218,7 @@ namespace ConsoleApp1
                     )
                 );
 
-                string jsonText = finalRoot.ToString(Formatting.None);
+                string jsonText = finalRoot.ToString(Newtonsoft.Json.Formatting.None);
 
                 // just if it was bad but doubt gardevcope would do
                 _ = JsonConvert.DeserializeXmlNode(jsonText);
@@ -241,7 +241,7 @@ namespace ConsoleApp1
                         )
                     )
                 );
-                string fallback = errRoot.ToString(Formatting.None);
+                string fallback = errRoot.ToString(Newtonsoft.Json.Formatting.None);
                 try { _ = JsonConvert.DeserializeXmlNode(fallback); } catch {  }
                 return fallback;
             }

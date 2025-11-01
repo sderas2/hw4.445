@@ -1,0 +1,17 @@
+/Users/sxderas/Desktop/hw4/bin/Debug/net9.0/hw4
+/Users/sxderas/Desktop/hw4/bin/Debug/net9.0/hw4.deps.json
+/Users/sxderas/Desktop/hw4/bin/Debug/net9.0/hw4.runtimeconfig.json
+/Users/sxderas/Desktop/hw4/bin/Debug/net9.0/hw4.dll
+/Users/sxderas/Desktop/hw4/bin/Debug/net9.0/hw4.pdb
+/Users/sxderas/Desktop/hw4/bin/Debug/net9.0/Newtonsoft.Json.dll
+/Users/sxderas/Desktop/hw4/obj/Debug/net9.0/hw4.csproj.AssemblyReference.cache
+/Users/sxderas/Desktop/hw4/obj/Debug/net9.0/hw4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sxderas/Desktop/hw4/obj/Debug/net9.0/hw4.AssemblyInfoInputs.cache
+/Users/sxderas/Desktop/hw4/obj/Debug/net9.0/hw4.AssemblyInfo.cs
+/Users/sxderas/Desktop/hw4/obj/Debug/net9.0/hw4.csproj.CoreCompileInputs.cache
+/Users/sxderas/Desktop/hw4/obj/Debug/net9.0/hw4.csproj.Up2Date
+/Users/sxderas/Desktop/hw4/obj/Debug/net9.0/hw4.dll
+/Users/sxderas/Desktop/hw4/obj/Debug/net9.0/refint/hw4.dll
+/Users/sxderas/Desktop/hw4/obj/Debug/net9.0/hw4.pdb
+/Users/sxderas/Desktop/hw4/obj/Debug/net9.0/hw4.genruntimeconfig.cache
+/Users/sxderas/Desktop/hw4/obj/Debug/net9.0/ref/hw4.dll
